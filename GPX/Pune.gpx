@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+            <gpx
+            xmlns="http://www.topografix.com/GPX/1/1"
+            xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+            xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+            http://www.garmin.com/xmlschemas/GpxExtensions/v3
+            http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+            version="1.1"
+            creator="StefanLage">
+                <wpt lat="18.51068370938447" lon="73.81762406630553">
+                    <time>2016-07-24 05:09:45 +0000</time>
+                    <name>Pune</name>
+                    <extensions>
+                        <gpxx:WaypointExtension>
+                            <gpxx:Address>
+                                <gpxx:StreetAddress>Paud Road</gpxx:StreetAddress>
+                                <gpxx:City>Pune</gpxx:City>
+                                <gpxx:Country>India</gpxx:Country>
+                                <gpxx:PostalCode>411038</gpxx:PostalCode>
+                            </gpxx:Address>
+                        </gpxx:WaypointExtension>
+                    </extensions>
+                </wpt>
+            </gpx>
